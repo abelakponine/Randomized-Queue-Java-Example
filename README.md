@@ -2,7 +2,6 @@
 This is an example of java randomized queue (back-end implementation)
 
 # Developer: Abel Akponine
-- [Documentation](#documentation)
 # Date: March 2020
 
 # Technologies used:
