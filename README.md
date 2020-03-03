@@ -1,7 +1,8 @@
 # Randomized-Queue-Java-Example
 This is an example of java randomized queue (back-end implementation)
 
-- [Abel Akponine](#Developer: Abel Akponine)
+# Developer: Abel Akponine
+- [Documentation](#documentation)
 # Date: March 2020
 
 # Technologies used:
